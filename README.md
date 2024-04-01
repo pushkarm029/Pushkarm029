@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pushkar Mishra</h1>
 <h3 align="center">I thrive on turning ideas into reality. A dedicated developer who loves to build projects from the ground up, turning concepts into functional and elegant solutions.</h3>
 
-- 🔎 Currently looking for Full Stack intern Role.
+- 🔎 Currently looking for intern Role.
 
 - 📝 I regularly write mini-blogs on [X](https://twitter.com/pushkarm029)
 
