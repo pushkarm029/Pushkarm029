@@ -1,3 +1,5 @@
 Open Source Developer
-Interests: DevOps, Blockchain.
+<br>
+Interests: DevOps, Blockchain
+<br>
 Primary Languages: JS/Go/Rust🦀
