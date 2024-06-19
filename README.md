@@ -1,1 +1,1 @@
-Contact: **pushkarmishra029@gmail.com**
+Software Developer - JS/Go/Rust🦀
