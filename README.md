@@ -1,5 +1,5 @@
-Open Source Developer
+Software Developer
 <br>
-Interests: Cloud Native, DevOps, Blockchain
+Interests: Blockchain, Cloud Native.
 <br>
-Primary Languages: TS/Go/Rust🦀
+Primary Languages: Rust🦀 <> TypeScript <> Go. 
