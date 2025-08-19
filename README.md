@@ -6,19 +6,21 @@ Engineering and auditing secure, high-performance Rust systems for DeFi, trading
 ### **Public Security Audits:**
 | # | Language | Protocol | Type | Findings | Report | Date |
 |---|----------|--|------|----------|---------|------|
-| 01 | Rust | Aquarius - Stellar | Decentralized liquidity management platform | 2 Informational | TBA | Jun 2025 |
-| 02 | Solidity | CrestalNetwork - EVM | Web3-native AI agent platform | 2 Medium | [Here](https://audits.sherlock.xyz/contests/755/report) | Mar 2025 |
+| 01 | Move | Bluefin Perps - Sui | Decentralized Exchange - Perpetuals | 1 High | Private([HackenProof](https://hackenproof.com/hackers/pushkarm029)) | Jul 2025 |
+| 02 | Rust | Aquarius - Stellar | Decentralized liquidity management platform | 2 Informational | Private([Cantina](https://cantina.xyz/u/pushkarm029/)) | Jun 2025 |
+| 03 | Solidity | CrestalNetwork - EVM | Web3-native AI agent platform | 2 Medium | [Here](https://audits.sherlock.xyz/contests/755/report) | Mar 2025 |
 
 ### **Private Security Audits:**
 | # | Language | Protocol | Type | Findings | Date |
 |---|----------|--|------|----------|---------|
-| 01 | Rust | Stealth | Virtual Machine | TBA | Jun 2025 |
-| 02 | Go | Stealth - Cosmos | DeFi | 1 High 1 Low | May 2025 |
-| 03 | Rust | Stealth | Cross Chain Bridge | 1 Low 3 Informational | Apr 2025 |
-| 04 | Rust | Stealth - Polkadot | DeFi | 1 High 2 Medium | Mar 2025 |
-| 05 | Rust | Stealth - Polkadot | Decentralized Identity (DeID) | 1 Medium 2 Informational | Mar 2025 |
-| 06 | Go | Stealth - Cosmos | Virtual Machine | 2 Low | Jan 2025 |
-| 07 | Haskell | MayZ - Cardano | DeFi | 1 Low | Nov 2024 |
+| 01 | C++/Rust | Stealth | Core Virtual Machine | 1 High 2 Low 4 Informational | Jul/Aug 2025 |
+| 02 | Rust | ZkSync Era | Zero Knowledge Virtual Machine | 2 Low 1 Informational | Jun 2025 |
+| 03 | Go | Stealth - Cosmos | DeFi | 1 High 1 Low | May 2025 |
+| 04 | Rust | Stealth | Cross Chain Bridge | 1 Low 3 Informational | Apr 2025 |
+| 05 | Rust | Stealth - Polkadot | DeFi | 1 High 2 Medium | Mar 2025 |
+| 06 | Rust | Stealth - Polkadot | Decentralized Identity (DeID) | 1 Medium 2 Informational | Mar 2025 |
+| 07 | Go | Stealth - Cosmos | Virtual Machine | 2 Low | Jan 2025 |
+| 08 | Haskell | MayZ - Cardano | DeFi | 1 Low | Nov 2024 |
 
 ---
 
