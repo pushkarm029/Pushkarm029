@@ -2,25 +2,28 @@
 Engineering and auditing secure, high-performance Rust systems for DeFi, trading platforms, and blockchain infrastructure.
 
 ---
-
-### **Public Security Audits:**
-| # | Language | Protocol | Type | Findings | Report | Date |
-|---|----------|--|------|----------|---------|------|
-| 01 | Move | Bluefin Perps - Sui | Decentralized Exchange - Perpetuals | 1 High | Private([HackenProof](https://hackenproof.com/hackers/pushkarm029)) | Jul 2025 |
-| 02 | Rust | Aquarius - Stellar | Decentralized liquidity management platform | 2 Informational | Private([Cantina](https://cantina.xyz/u/pushkarm029/)) | Jun 2025 |
-| 03 | Solidity | CrestalNetwork - EVM | Web3-native AI agent platform | 2 Medium | [Here](https://audits.sherlock.xyz/contests/755/report) | Mar 2025 |
-
 ### **Private Security Audits:**
-| # | Language | Protocol | Type | Findings | Date |
-|---|----------|--|------|----------|---------|
-| 01 | C++/Rust | Stealth | Core Virtual Machine | 1 High 2 Low 4 Informational | Jul/Aug 2025 |
-| 02 | Rust | ZkSync Era | Zero Knowledge Virtual Machine | 2 Low 1 Informational | Jun 2025 |
-| 03 | Go | Stealth - Cosmos | DeFi | 1 High 1 Low | May 2025 |
-| 04 | Rust | Stealth | Cross Chain Bridge | 1 Low 3 Informational | Apr 2025 |
-| 05 | Rust | Stealth - Polkadot | DeFi | 1 High 2 Medium | Mar 2025 |
-| 06 | Rust | Stealth - Polkadot | Decentralized Identity (DeID) | 1 Medium 2 Informational | Mar 2025 |
-| 07 | Go | Stealth - Cosmos | Virtual Machine | 2 Low | Jan 2025 |
-| 08 | Haskell | MayZ - Cardano | DeFi | 1 Low | Nov 2024 |
+| # | Language | Protocol | Type | Findings | Date | Firm |
+|---|----------|----------|------|----------|------|------|
+| 01 | Rust | ZkSync Era | Zero Knowledge EVM L2 | Ongoing | Nov 2025 | Taran.Space |
+| 02 | Rust | Magpie Protocol (Solana) | DeFi | 1 High | Oct 2025 | Quill Audits (Post Audit) |
+| 03 | C++/Rust | Stealth | Blockchain Virtual Machine | 1 High, 2 Low, 4 Informational | Aug 2025 | Taran.Space |
+| 04 | Rust | Pyro.fun (Solana) | DeFi | 1 High | Jul 2025 | Quill Audits (Post Audit) |
+| 05 | Rust | ZkSync Era | Zero Knowledge EVM L2 | 1 High, 2 Low, 4 Informational | Jun 2025 | Taran.Space |
+| 06 | Go | Stealth (Cosmos) | DeFi | 1 High, 1 Low | May 2025 | Taran.Space |
+| 07 | Rust | Stealth (Polkadot - EVM) | Cross Chain Bridge | 1 Low, 3 Informational | Apr 2025 | Taran.Space |
+| 08 | Rust | Stealth (Polkadot) | DeFi | 1 High, 2 Medium | Mar 2025 | Taran.Space |
+| 09 | Rust | Stealth (Polkadot) | Decentralized Identity (DeID) | 1 Medium, 2 Informational | Mar 2025 | Taran.Space |
+| 10 | Go | Stealth (Cosmos) | Virtual Machine | 2 Low | Jan 2025 | Taran.Space |
+| 11 | Haskell | MayZ (Cardano) | DeFi | 2 High, 1 Medium | Nov 2024 | Independent |
+
+### **Public Security Contests:**
+| # | Language | Protocol | Type | Findings | Report | Date |
+|---|----------|----------|------|----------|--------|------|
+| 01 | C++ | Somnia | EVM-compatible Layer 1 blockchain | 3 Informational | [Hackenproof](https://hackenproof.com/audit-programs/somnia-audit-contest?tab=reports) | Sep 2025 |
+| 02 | Move | Bluefin Perps (Sui) | Decentralized Exchange - Perpetuals | 1 High (Rank: 8/38) | Private ([HackenProof](https://hackenproof.com/hackers/pushkarm029)) | Jul 2025 |
+| 03 | Rust | Aquarius (Stellar) | Decentralized liquidity management platform | 2 Informational | Private ([Cantina](https://cantina.xyz/u/pushkarm029/)) | Jun 2025 |
+| 04 | Solidity | CrestalNetwork | Web3-native AI agent platform | 2 Medium (Rank: 7/98) | [Sherlock](https://audits.sherlock.xyz/contests/755/report) | Mar 2025 |
 
 ---
 
