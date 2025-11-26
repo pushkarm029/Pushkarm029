@@ -5,8 +5,8 @@ Engineering and auditing secure, high-performance Rust systems for DeFi, trading
 ### **Private Security Audits:**
 | # | Language | Protocol | Type | Findings | Date | Firm |
 |---|----------|----------|------|----------|------|------|
-| 01 | Rust | ZkSync Era | Zero Knowledge EVM L2 | Ongoing | Nov 2025 | Taran.Space |
-| 02 | Rust | Magpie Protocol (Solana) | DeFi | 1 High | Oct 2025 | Quill Audits (Post Audit) |
+| 01 | Rust | Beamable Network (Solana) | DePIN | 2 High, 2 Medium, 4 Low | Nov 2025 | Hashlock |
+| 02 | Rust | ZkSync Era | Zero Knowledge EVM L2 | Ongoing | Nov 2025 | Taran.Space |
 | 03 | C++/Rust | Stealth | Blockchain Virtual Machine | 1 High, 2 Low, 4 Informational | Aug 2025 | Taran.Space |
 | 04 | Rust | Pyro.fun (Solana) | DeFi | 1 High | Jul 2025 | Quill Audits (Post Audit) |
 | 05 | Rust | ZkSync Era | Zero Knowledge EVM L2 | 1 High, 2 Low, 4 Informational | Jun 2025 | Taran.Space |
@@ -20,10 +20,8 @@ Engineering and auditing secure, high-performance Rust systems for DeFi, trading
 ### **Public Security Contests:**
 | # | Language | Protocol | Type | Findings | Report | Date |
 |---|----------|----------|------|----------|--------|------|
-| 01 | C++ | Somnia | EVM-compatible Layer 1 blockchain | 3 Informational | [Hackenproof](https://hackenproof.com/audit-programs/somnia-audit-contest?tab=reports) | Sep 2025 |
-| 02 | Move | Bluefin Perps (Sui) | Decentralized Exchange - Perpetuals | 1 High (Rank: 8/38) | Private ([HackenProof](https://hackenproof.com/hackers/pushkarm029)) | Jul 2025 |
-| 03 | Rust | Aquarius (Stellar) | Decentralized liquidity management platform | 2 Informational | Private ([Cantina](https://cantina.xyz/u/pushkarm029/)) | Jun 2025 |
-| 04 | Solidity | CrestalNetwork | Web3-native AI agent platform | 2 Medium (Rank: 7/98) | [Sherlock](https://audits.sherlock.xyz/contests/755/report) | Mar 2025 |
+| 01 | Move | Bluefin Perps (Sui) | Decentralized Exchange - Perpetuals | 1 High (Rank: 8/38) | Private ([HackenProof](https://hackenproof.com/hackers/pushkarm029)) | Jul 2025 |
+| 02 | Solidity | CrestalNetwork | Web3-native AI agent platform | 2 Medium (Rank: 7/98) | [Sherlock](https://audits.sherlock.xyz/contests/755/report) | Mar 2025 |
 
 ---
 
