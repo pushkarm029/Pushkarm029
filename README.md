@@ -7,18 +7,19 @@ Engineering and auditing secure, high-performance Rust systems for DeFi, trading
 ### **Private Security Audits:**
 | # | Language | Protocol | Type | Findings | Date | Firm |
 |---|----------|----------|------|----------|------|------|
-| 01 | Rust | Tilted Social Gaming (Solana) | DeFi, Gaming | 8 Critical, 4 High, 3 Medium, 4 Low | Dec 2025 | DeCrypt0 |
-| 02 | Rust | Beamable Network (Solana) | DePIN | 2 High, 2 Medium, 4 Low | Nov 2025 | Hashlock |
-| 03 | Rust | ZkSync Era | Zero Knowledge EVM L2 | 1 Medium, 2 Low | Nov 2025 | Taran.Space |
-| 04 | C++/Rust | Stealth | Blockchain Virtual Machine | 1 High, 2 Low, 4 Informational | Aug 2025 | Taran.Space |
-| 05 | Rust | Pyro.fun (Solana) | DeFi | 1 High | Jul 2025 | Quill Audits (Post Audit) |
-| 06 | Rust | ZkSync Era | Zero Knowledge EVM L2 | 1 High, 2 Low, 4 Informational | Jun 2025 | Taran.Space |
-| 07 | Go | Stealth (Cosmos) | DeFi | 1 High, 1 Low | May 2025 | Taran.Space |
-| 08 | Rust | Stealth (Polkadot - EVM) | Cross Chain Bridge | 1 Low, 3 Informational | Apr 2025 | Taran.Space |
-| 09 | Rust | Stealth (Polkadot) | DeFi | 1 High, 2 Medium | Mar 2025 | Taran.Space |
-| 10 | Rust | Stealth (Polkadot) | Decentralized Identity (DeID) | 1 Medium, 2 Informational | Mar 2025 | Taran.Space |
-| 11 | Go | Stealth (Cosmos) | Virtual Machine | 2 Low | Jan 2025 | Taran.Space |
-| 12 | Haskell | MayZ (Cardano) | DeFi | 2 High, 1 Medium | Nov 2024 | Independent |
+| 01 | Solidity | Vana Protocol | DeFi | 4 Low | Dec 2025 | Hashlock |
+| 02 | Rust | Tilted Social Gaming (Solana) | DeFi, Gaming | 8 Critical, 4 High, 3 Medium, 4 Low | Dec 2025 | DeCrypt0 |
+| 03 | Rust | Beamable Network (Solana) | DePIN | 2 High, 2 Medium, 4 Low | Nov 2025 | Hashlock |
+| 04 | Rust | ZkSync Era | Zero Knowledge EVM L2 | 1 Medium, 2 Low | Nov 2025 | Taran.Space |
+| 05 | C++/Rust | Stealth | Blockchain Virtual Machine | 1 High, 2 Low, 4 Informational | Aug 2025 | Taran.Space |
+| 06 | Rust | Pyro.fun (Solana) | DeFi | 1 High | Jul 2025 | Quill Audits (Post Audit) |
+| 07 | Rust | ZkSync Era | Zero Knowledge EVM L2 | 1 High, 2 Low, 4 Informational | Jun 2025 | Taran.Space |
+| 08 | Go | Stealth (Cosmos) | DeFi | 1 High, 1 Low | May 2025 | Taran.Space |
+| 09 | Rust | Stealth (Polkadot - EVM) | Cross Chain Bridge | 1 Low, 3 Informational | Apr 2025 | Taran.Space |
+| 10 | Rust | Stealth (Polkadot) | DeFi | 1 High, 2 Medium | Mar 2025 | Taran.Space |
+| 11 | Rust | Stealth (Polkadot) | Decentralized Identity (DeID) | 1 Medium, 2 Informational | Mar 2025 | Taran.Space |
+| 12 | Go | Stealth (Cosmos) | Virtual Machine | 2 Low | Jan 2025 | Taran.Space |
+| 13 | Haskell | MayZ (Cardano) | DeFi | 2 High, 1 Medium | Nov 2024 | Independent |
 
 ### **Public Security Contests:**
 | # | Language | Protocol | Type | Findings | Report | Date |
