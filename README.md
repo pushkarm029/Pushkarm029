@@ -5,22 +5,30 @@ Engineering and auditing secure, high-performance Rust systems for DeFi, trading
 
 ---
 ### **Private Security Audits:**
+
 | # | Language | Protocol | Type | Findings | Date | Firm |
 |---|----------|----------|------|----------|------|------|
-| 01 | Solidity | Umbrae Protocol | DeFi - DLMM | 2 High 5 Medium 5 Low | Jan 2026 | Hashlock |
-| 02 | Solidity | Vana Protocol | DeFi | 4 Low | Dec 2025 | Hashlock |
-| 03 | Rust | Tilted Social Gaming (Solana) | DeFi, Gaming | 8 Critical, 4 High, 3 Medium, 4 Low | Dec 2025 | DeCrypt0 |
-| 04 | Rust | Beamable Network (Solana) | DePIN | 2 High, 2 Medium, 4 Low | Nov 2025 | Hashlock |
-| 05 | Rust | ZkSync Era | Zero Knowledge EVM L2 | 1 Medium, 2 Low | Nov 2025 | Taran.Space |
-| 06 | C++/Rust | Stealth | Blockchain Virtual Machine | 1 High, 2 Low, 4 Informational | Aug 2025 | Taran.Space |
-| 07 | Rust | Pyro.fun (Solana) | DeFi | 1 High | Jul 2025 | Quill Audits (Post Audit) |
-| 08 | Rust | ZkSync Era | Zero Knowledge EVM L2 | 1 High, 2 Low, 4 Informational | Jun 2025 | Taran.Space |
-| 09 | Go | Stealth (Cosmos) | DeFi | 1 High, 1 Low | May 2025 | Taran.Space |
-| 10 | Rust | Stealth (Polkadot - EVM) | Cross Chain Bridge | 1 Low, 3 Informational | Apr 2025 | Taran.Space |
-| 11 | Rust | Stealth (Polkadot) | DeFi | 1 High, 2 Medium | Mar 2025 | Taran.Space |
-| 12 | Rust | Stealth (Polkadot) | Decentralized Identity (DeID) | 1 Medium, 2 Informational | Mar 2025 | Taran.Space |
-| 13 | Go | Stealth (Cosmos) | Virtual Machine | 2 Low | Jan 2025 | Taran.Space |
-| 14 | Haskell | MayZ (Cardano) | DeFi | 2 High, 1 Medium | Nov 2024 | Independent |
+| 01 | Rust | via-network Stellar | Cross-chain Messaging | 3 High, 3 Medium, 21 Low | Apr 2026 | Hashlock |
+| 02 | Rust | Arcane Protocol | Privacy / ZK Mixer | 1 Medium, 13 Low | Apr 2026 | Hashlock |
+| 03 | Rust | Loadout Programs | Launchpad / Bonding Curve / Meteora DLMM | 4 High, 5 Medium, 19 Low | Mar 2026 | Hashlock |
+| 04 | Solidity | Pool Orbit | On-chain Lottery / VRF | 4 High, 1 Medium, 1 Low | Mar 2026 | Hashlock |
+| 05 | Rust | Polymesh | RWA / Regulated Securities Blockchain | 4 High, 6 Medium, 12 Low | Feb 2026 | Hashlock |
+| 06 | Solidity | Optimism - Celo | OP Stack / Custom Gas Token L2 | 1 Medium | Feb 2026 | Hashlock |
+| 07 | Rust | Mint Matrix | Solana | 4 High, 1 Low | Feb 2026 | Hashlock |
+| 08 | Solidity | Umbrae Protocol | DeFi - DLMM | 1 High, 5 Medium, 2 Low | Jan 2026 | Hashlock |
+| 09 | Solidity | Vana Protocol | DeFi | 4 Low | Dec 2025 | Hashlock |
+| 10 | Rust | Tilted Social Gaming (Solana) | DeFi, Gaming | 8 Critical, 4 High, 3 Medium, 4 Low | Dec 2025 | DeCrypt0 |
+| 11 | Rust | Beamable Network (Solana) | DePIN | 2 High, 2 Medium, 4 Low | Nov 2025 | Hashlock |
+| 12 | Rust | ZkSync Era | Zero Knowledge EVM L2 | 1 Medium, 2 Low | Nov 2025 | Taran.Space |
+| 13 | C++/Rust | Stealth | Blockchain Virtual Machine | 1 High, 2 Low | Aug 2025 | Taran.Space |
+| 14 | Rust | Pyro.fun (Solana) | DeFi | 1 High | Jul 2025 | Quill Audits (Post Audit) |
+| 15 | Rust | ZkSync Era | Zero Knowledge EVM L2 | 1 High, 2 Low | Jun 2025 | Taran.Space |
+| 16 | Go | Stealth (Cosmos) | DeFi | 1 High, 1 Low | May 2025 | Taran.Space |
+| 17 | Rust | Stealth (Polkadot - EVM) | Cross Chain Bridge | 1 Low | Apr 2025 | Taran.Space |
+| 18 | Rust | Stealth (Polkadot) | DeFi | 1 High, 2 Medium | Mar 2025 | Taran.Space |
+| 19 | Rust | Stealth (Polkadot) | Decentralized Identity (DeID) | 1 Medium | Mar 2025 | Taran.Space |
+| 20 | Go | Stealth (Cosmos) | Virtual Machine | 2 Low | Jan 2025 | Taran.Space |
+| 21 | Haskell | MayZ (Cardano) | DeFi | 2 High, 1 Medium | Nov 2024 | Independent |
 
 ### **Public Security Contests:**
 | # | Language | Protocol | Type | Findings | Report | Date |
