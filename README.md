@@ -19,14 +19,14 @@ Engineering and auditing secure, high-performance Rust systems for DeFi, trading
 | 09 | Rust | DeLorean Labs Staking | Staking | 4 High, 6 Medium, 7 Low | Jun 2026 | Hashlock |
 | 10 | Rust | Zynk Labs | Solana | 1 Medium, 6 Low | Jun 2026 | QuillAudits |
 | 11 | Solidity | IBC Group | DeFi | 1 High, 5 Low | Jun 2026 | Hashlock |
-| 12 | Rust | via network | Cross-chain messaging | 3 High, 3 Medium, 21 Low | Apr 2026 | Hashlock |
+| 12 | Rust | [via network](https://hashlock.com/wp-content/uploads/2025/05/VIA-Labs-Stellar-Smart-Contract-Audit-Report-Final-Report-v5.pdf) | Cross-chain messaging | 2 High, 2 Medium, 19 Low | Apr 2026 | Hashlock |
 | 13 | Rust | [Arcane Protocol](https://hashlock.com/wp-content/uploads/2026/06/Arcane-Smart-Contract-Audit-Report-Final-Report-v3.pdf) | Privacy, ZK mixer | 1 Medium, 13 Low | Apr 2026 | Hashlock |
 | 14 | Rust | [Loadout Programs](https://hashlock.com/wp-content/uploads/2026/05/Loadout-Smart-Contract-Audit-Report-Final-Report-v2.pdf) | Launchpad, bonding curve, Meteora DLMM | 4 High, 5 Medium, 19 Low | Mar 2026 | Hashlock |
 | 15 | Solidity | [Pool Orbit](https://hashlock.com/wp-content/uploads/2026/04/PoolOrbit-Smart-Contract-Audit-Report-Final-Report-v4.pdf) | Lottery, VRF | 4 High, 1 Medium, 1 Low | Mar 2026 | Hashlock |
 | 16 | Rust | [Polymesh](https://hashlock.com/wp-content/uploads/2026/07/Polymesh-Audit-Report-Final-Report-v5.pdf) | RWA, regulated securities | 4 High, 6 Medium, 12 Low | Feb 2026 | Hashlock |
 | 17 | Solidity | [Optimism, Celo](https://hashlock.com/wp-content/uploads/2026/01/Celo-2nd-Smart-Contract-Audit-Report-Final-Report-v2.pdf) | L2, custom gas token | 1 Medium | Feb 2026 | Hashlock |
 | 18 | Rust | Mint Matrix | Solana | 4 High, 1 Low | Feb 2026 | Hashlock |
-| 19 | Solidity | Umbrae Protocol | DLMM | 1 High, 5 Medium, 2 Low | Jan 2026 | Hashlock |
+| 19 | Solidity | [Umbrae Protocol](https://hashlock.com/wp-content/uploads/2025/09/Umbrae-Smart-Contract-Audit-Report-Final-Report-v2.pdf) | DLMM | 3 High, 7 Medium, 7 Low | Jan 2026 | Hashlock |
 | 20 | Solidity | Vana | DeFi | 4 Low | Dec 2025 | Hashlock |
 | 21 | Rust | Tilted Social Gaming | DeFi, gaming | 12 High, 3 Medium, 4 Low | Dec 2025 | DeCrypt0 |
 | 22 | Rust | [Beamable Network](https://hashlock.com/wp-content/uploads/2025/12/Beamable-Network-Smart-Contract-Audit-Report-Final-Report-v4.pdf) | DePIN | 2 High, 2 Medium, 4 Low | Nov 2025 | Hashlock |
@@ -52,6 +52,11 @@ Engineering and auditing secure, high-performance Rust systems for DeFi, trading
 
 | # | Protocol | Issues Triaged | Date | Firm |
 |---|----------|----------------|------|------|
+| 01 | Bluefin | 100 | Jun 2026 | Pashov Audit Group |
+| 02 | Linea | 93 | Jun 2026 | Pashov Audit Group |
+| 03 | Yelay | 74 | Jun 2026 | Pashov Audit Group |
+
+---|----------|----------------|------|------|
 | 01 | Bluefin | 100 | Jun 2026 | Pashov Audit Group |
 | 02 | Linea | 93 | Jun 2026 | Pashov Audit Group |
 | 03 | Yelay | 74 | Jun 2026 | Pashov Audit Group |
