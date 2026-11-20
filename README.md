@@ -6,50 +6,57 @@ Engineering and auditing secure, high-performance Rust systems for DeFi, trading
 ---
 ### **Private Security Audits:**
 
-| # | Language | Protocol | Type | Findings | Date | Firm |
-|---|----------|----------|------|----------|------|------|
-| 01 | Rust | Loadout Programs AMM - 2nd Audit | Solana | 1 High | Oct 2026 | Hashlock |
-| 02 | Rust | Ziquila | Solana | 11 High, 12 Medium, 8 Low | Sep 2026 | Hashlock |
-| 03 | Rust | Loadout Programs | Solana | 1 High, 2 Medium | Sep 2026 | Hashlock |
-| 04 | Rust | OmniBridge - Sui | Near | Pending | Sep 2026 | AuditOne |
-| 05 | Rust | OmniBridge - Bitcoin | Near | Pending | Aug 2026 | AuditOne |
+| # | Language | Protocol | Type | Findings | Date | Delivered via |
+|---|----------|----------|------|----------|------|---------------|
+| 01 | Rust | Loadout Programs AMM (round 2) | AMM | 1 High | Oct 2026 | Hashlock |
+| 02 | Rust | Zilliqa | Solana | 11 High, 12 Medium, 8 Low | Sep 2026 | Hashlock |
+| 03 | Rust | Loadout Programs | Launchpad | 1 High, 2 Medium | Sep 2026 | Hashlock |
+| 04 | Rust | OmniBridge Sui | Cross-chain bridge | Pending | Sep 2026 | AuditOne |
+| 05 | Rust | OmniBridge Bitcoin | Cross-chain bridge | Pending | Aug 2026 | AuditOne |
 | 06 | Rust | ApeChurch | Solana | 3 Medium, 3 Low | Jul 2026 | Hashlock |
-| 07 | Rust | Arcane Protocol - 2nd Audit | Solana | 1 Low | Jul 2026 | Hashlock |
-| 08 | Rust | OmniBridge - Aptos | Near | 1 High, 2 Medium, 2 Low | Jul 2026 | AuditOne |
-| 09 | Rust | DeLoreanLabs Staking | Solana | 4 High, 6 Medium, 7 Low | Jun 2026 | Hashlock |
-| 10 | Rust | ZynkLabs | Solana | 1 Medium, 6 Low | Jun 2026 | Quill Audits |
+| 07 | Rust | Arcane Protocol (round 2) | Privacy, ZK mixer | 1 Low | Jul 2026 | Hashlock |
+| 08 | Rust | OmniBridge Aptos | Cross-chain bridge | 1 High, 2 Medium, 2 Low | Jul 2026 | AuditOne |
+| 09 | Rust | DeLorean Labs Staking | Staking | 4 High, 6 Medium, 7 Low | Jun 2026 | Hashlock |
+| 10 | Rust | Zynk Labs | Solana | 1 Medium, 6 Low | Jun 2026 | QuillAudits |
 | 11 | Solidity | IBC Group | DeFi | 1 High, 5 Low | Jun 2026 | Hashlock |
-| 12 | Rust | via-network Stellar | Cross-chain Messaging | 3 High, 3 Medium, 21 Low | Apr 2026 | Hashlock |
-| 13 | Rust | Arcane Protocol | Privacy / ZK Mixer | 1 Medium, 13 Low | Apr 2026 | Hashlock |
-| 14 | Rust | Loadout Programs | Launchpad / Bonding Curve / Meteora DLMM | 4 High, 5 Medium, 19 Low | Mar 2026 | Hashlock |
-| 15 | Solidity | Pool Orbit | On-chain Lottery / VRF | 4 High, 1 Medium, 1 Low | Mar 2026 | Hashlock |
-| 16 | Rust | Polymesh | RWA / Regulated Securities Blockchain | 4 High, 6 Medium, 12 Low | Feb 2026 | Hashlock |
-| 17 | Solidity | Optimism - Celo | OP Stack / Custom Gas Token L2 | 1 Medium | Feb 2026 | Hashlock |
+| 12 | Rust | via network | Cross-chain messaging | 3 High, 3 Medium, 21 Low | Apr 2026 | Hashlock |
+| 13 | Rust | Arcane Protocol | Privacy, ZK mixer | 1 Medium, 13 Low | Apr 2026 | Hashlock |
+| 14 | Rust | Loadout Programs | Launchpad, bonding curve, Meteora DLMM | 4 High, 5 Medium, 19 Low | Mar 2026 | Hashlock |
+| 15 | Solidity | Pool Orbit | Lottery, VRF | 4 High, 1 Medium, 1 Low | Mar 2026 | Hashlock |
+| 16 | Rust | Polymesh | RWA, regulated securities | 4 High, 6 Medium, 12 Low | Feb 2026 | Hashlock |
+| 17 | Solidity | Optimism, Celo | L2, custom gas token | 1 Medium | Feb 2026 | Hashlock |
 | 18 | Rust | Mint Matrix | Solana | 4 High, 1 Low | Feb 2026 | Hashlock |
-| 19 | Solidity | Umbrae Protocol | DeFi - DLMM | 1 High, 5 Medium, 2 Low | Jan 2026 | Hashlock |
-| 20 | Solidity | Vana Protocol | DeFi | 4 Low | Dec 2025 | Hashlock |
-| 21 | Rust | Tilted Social Gaming (Solana) | DeFi, Gaming | 12 High, 3 Medium, 4 Low | Dec 2025 | DeCrypt0 |
-| 22 | Rust | Beamable Network (Solana) | DePIN | 2 High, 2 Medium, 4 Low | Nov 2025 | Hashlock |
-| 23 | Rust | ZkSync Era | Zero Knowledge EVM L2 | 1 Medium, 2 Low | Nov 2025 | Taran.Space |
-| 24 | C++/Rust | Stealth | Blockchain Virtual Machine | 1 High, 2 Low | Aug 2025 | Taran.Space |
-| 25 | Rust | Pyro.fun (Solana) | DeFi | 1 High | Jul 2025 | Quill Audits (Post Audit) |
-| 26 | Rust | ZkSync Era | Zero Knowledge EVM L2 | 1 High, 2 Low | Jun 2025 | Taran.Space |
-| 27 | Go | Stealth (Cosmos) | DeFi | 1 High, 1 Low | May 2025 | Taran.Space |
-| 28 | Rust | Stealth (Polkadot - EVM) | Cross Chain Bridge | 1 Low | Apr 2025 | Taran.Space |
-| 29 | Rust | Stealth (Polkadot) | DeFi | 1 High, 2 Medium | Mar 2025 | Taran.Space |
-| 30 | Rust | Stealth (Polkadot) | Decentralized Identity (DeID) | 1 Medium | Mar 2025 | Taran.Space |
-| 31 | Go | Stealth (Cosmos) | Virtual Machine | 2 Low | Jan 2025 | Taran.Space |
-| 32 | Haskell | MayZ (Cardano) | DeFi | 2 High, 1 Medium | Nov 2024 | AuditOne |
+| 19 | Solidity | Umbrae Protocol | DLMM | 1 High, 5 Medium, 2 Low | Jan 2026 | Hashlock |
+| 20 | Solidity | Vana | DeFi | 4 Low | Dec 2025 | Hashlock |
+| 21 | Rust | Tilted Social Gaming | DeFi, gaming | 12 High, 3 Medium, 4 Low | Dec 2025 | DeCrypt0 |
+| 22 | Rust | Beamable Network | DePIN | 2 High, 2 Medium, 4 Low | Nov 2025 | Hashlock |
+| 23 | Rust | zkSync Era (round 2) | ZK EVM L2 | 1 Medium, 2 Low | Nov 2025 | Taran Space |
+| 24 | C++, Rust | Undisclosed | Blockchain VM | 1 High, 2 Low | Aug 2025 | Taran Space |
+| 25 | Rust | Pyro.fun | DeFi, post-audit review | 1 High | Jul 2025 | QuillAudits |
+| 26 | Rust | zkSync Era | ZK EVM L2 | 1 High, 2 Low | Jun 2025 | Taran Space |
+| 27 | Go | Undisclosed | DeFi | 1 High, 1 Low | May 2025 | Taran Space |
+| 28 | Rust | Undisclosed | Cross-chain bridge | 1 Low | Apr 2025 | Taran Space |
+| 29 | Rust | Undisclosed | DeFi | 1 High, 2 Medium | Mar 2025 | Taran Space |
+| 30 | Rust | Undisclosed | Decentralized identity | 1 Medium | Mar 2025 | Taran Space |
+| 31 | Go | Undisclosed | Virtual machine | 2 Low | Jan 2025 | Taran Space |
+| 32 | Haskell | MayZ | DeFi | 2 High, 1 Medium | Nov 2024 | AuditOne |
 
 ### **Public Security Contests:**
+
 | # | Language | Protocol | Type | Findings | Report | Date |
 |---|----------|----------|------|----------|--------|------|
-| 01 | Move | Bluefin Perps (Sui) | Decentralized Exchange - Perpetuals | 1 High (Rank: 8/38) | Private ([HackenProof](https://hackenproof.com/hackers/pushkarm029)) | Jul 2025 |
-| 02 | Solidity | CrestalNetwork | Web3-native AI agent platform | 2 Medium (Rank: 7/98) | [Sherlock](https://audits.sherlock.xyz/contests/755/report) | Mar 2025 |
+| 01 | Move | Bluefin Perps | Perpetuals DEX | 1 High (Rank: 8/38) | [HackenProof](https://hackenproof.com/hackers/pushkarm029) | Jul 2025 |
+| 02 | Solidity | Crestal Network | AI agent platform | 2 Medium (Rank: 7/98) | [Sherlock](https://audits.sherlock.xyz/contests/755/report) | Mar 2025 |
 
 ### **Triage Work:**
+
 | # | Protocol | Issues Triaged | Date | Firm |
 |---|----------|----------------|------|------|
+| 01 | Bluefin | 100 | Jun 2026 | Pashov Audit Group |
+| 02 | Linea | 93 | Jun 2026 | Pashov Audit Group |
+| 03 | Yelay | 74 | Jun 2026 | Pashov Audit Group |
+
+---|----------|----------------|------|------|
 | 01 | Bluefin | 100 | Jun 2026 | Pashov Audit Group |
 | 02 | Linea | 93 | Jun 2026 | Pashov Audit Group |
 | 03 | Yelay | 74 | Jun 2026 | Pashov Audit Group |
