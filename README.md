@@ -39,7 +39,7 @@ Engineering and auditing secure, high-performance Rust systems for DeFi, trading
 | 29 | Rust | Stealth (Polkadot) | DeFi | 1 High, 2 Medium | Mar 2025 | Taran.Space |
 | 30 | Rust | Stealth (Polkadot) | Decentralized Identity (DeID) | 1 Medium | Mar 2025 | Taran.Space |
 | 31 | Go | Stealth (Cosmos) | Virtual Machine | 2 Low | Jan 2025 | Taran.Space |
-| 32 | Haskell | MayZ (Cardano) | DeFi | 2 High, 1 Medium | Nov 2024 | Independent |
+| 32 | Haskell | MayZ (Cardano) | DeFi | 2 High, 1 Medium | Nov 2024 | AuditOne |
 
 ### **Public Security Contests:**
 | # | Language | Protocol | Type | Findings | Report | Date |
