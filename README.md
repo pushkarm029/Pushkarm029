@@ -1,7 +1,7 @@
 ## **Rust Developer | Blockchain · Security Audits · Low Latency Systems**  
 Engineering and auditing secure, high-performance Rust systems for DeFi, trading platforms, and blockchain infrastructure.
 
-##### Looking for an experienced Rust developer or security auditor? Reach out: [@pusharm029](https://t.me/pusharm029)
+##### Looking for an experienced Rust developer or security auditor? Reach out: [@pushkarm029](https://t.me/pushkarm029)
 
 ---
 ### **Private Security Audits:**
@@ -101,5 +101,5 @@ Engineering and auditing secure, high-performance Rust systems for DeFi, trading
 ### **Contact**: 
 - **Email:** [pushkarmishra029@gmail.com](mailto:pushkarmishra029@gmail.com)
 - **𝕏:** [@Pushkarm029](https://x.com/Pushkarm029)
-- **Telegram:** [@pusharm029](https://t.me/pusharm029)
+- **Telegram:** [@pushkarm029](https://t.me/pushkarm029)
 - **LinkedIn:** [@Pushkarm029](https://linkedin.com/in/pushkarm029)
