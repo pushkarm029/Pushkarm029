@@ -1,7 +1,7 @@
 ## **Rust Developer | Blockchain · Security Audits · Low Latency Systems**  
 Engineering and auditing secure, high-performance Rust systems for DeFi, trading platforms, and blockchain infrastructure.
 
-##### Looking for an experienced Rust developer or security auditor? Reach out: [@Pushkarm029](https://t.me/Pushkarm029)
+##### Looking for an experienced Rust developer or security auditor? Reach out: [@pusharm029](https://t.me/pusharm029)
 
 ---
 ### **Private Security Audits:**
@@ -80,9 +80,9 @@ Engineering and auditing secure, high-performance Rust systems for DeFi, trading
 ---
 
 ### **Articles**  
-- **[Valid Proofs, Broken Protocols: The ZK Bugs Engineers Actually Miss](https://audits.miragesystems.io/blog/valid-proofs-broken-protocols-zk-bugs-engineers-miss)**: Explains how valid ZK proofs can still leak witnesses, prove weaker statements, or authorize the wrong protocol action.
-- **[Native Rust on Solana: 7 Security Mistakes That Drain Protocols](https://audits.miragesystems.io/blog/solana-native-rust-security-vulnerabilities)**: Analyzes critical vulnerability patterns in native Solana Rust programs.
-- **[The Ability Mistakes That Will Drain Your Sui Move Protocol](https://audits.miragesystems.io/blog/sui-move-ability-security-mistakes)**: Explores critical security pitfalls in Sui Move’s ability system and exploit scenarios.
+- **[Valid Proofs, Broken Protocols: The ZK Bugs Engineers Actually Miss](https://mirageaudits.com/blog/valid-proofs-broken-protocols-zk-bugs-engineers-miss)**: Explains how valid ZK proofs can still leak witnesses, prove weaker statements, or authorize the wrong protocol action.
+- **[Native Rust on Solana: 7 Security Mistakes That Drain Protocols](https://mirageaudits.com/blog/solana-native-rust-security-vulnerabilities)**: Analyzes critical vulnerability patterns in native Solana Rust programs.
+- **[The Ability Mistakes That Will Drain Your Sui Move Protocol](https://mirageaudits.com/blog/sui-move-ability-security-mistakes)**: Explores critical security pitfalls in Sui Move’s ability system and exploit scenarios.
 - **[Navigating the Cross-Chain Landscape: XCMP vs IBC](https://medium.com/@taran-space/navigating-the-cross-chain-landscape-xcmp-vs-ibc-b247de322e20)**: Compares Polkadot's XCMP and Cosmos's IBC cross-chain messaging models, their trust assumptions, and security trade-offs.
 - **[XCMP in Polkadot: Security Measures Every Project Should Know](https://medium.com/@taran-space/xcmp-in-polkadot-security-measures-every-project-should-know-5bd928f8053f)** :  Explores cross-chain message security in Polkadot, common vulnerabilities, and best practices for secure XCMP design.
 
@@ -91,5 +91,5 @@ Engineering and auditing secure, high-performance Rust systems for DeFi, trading
 ### **Contact**: 
 - **Email:** [pushkarmishra029@gmail.com](mailto:pushkarmishra029@gmail.com)
 - **𝕏:** [@Pushkarm029](https://x.com/Pushkarm029)
-- **Telegram:** [@Pushkarm029](https://t.me/Pushkarm029)
+- **Telegram:** [@pusharm029](https://t.me/pusharm029)
 - **LinkedIn:** [@Pushkarm029](https://linkedin.com/in/pushkarm029)
