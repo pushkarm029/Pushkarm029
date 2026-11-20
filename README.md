@@ -14,22 +14,22 @@ Engineering and auditing secure, high-performance Rust systems for DeFi, trading
 | 04 | Rust | OmniBridge Sui | Cross-chain bridge | Pending | Sep 2026 | AuditOne |
 | 05 | Rust | OmniBridge Bitcoin | Cross-chain bridge | Pending | Aug 2026 | AuditOne |
 | 06 | Rust | ApeChurch | Solana | 3 Medium, 3 Low | Jul 2026 | Hashlock |
-| 07 | Rust | Arcane Protocol (round 2) | Privacy, ZK mixer | 1 Low | Jul 2026 | Hashlock |
+| 07 | Rust | [Arcane Protocol (round 2)](https://hashlock.com/wp-content/uploads/2026/06/Arcane-2nd-Smart-Contract-Audit-Report-Final-Report-v1.pdf) | Privacy, ZK mixer | 1 Low | Jul 2026 | Hashlock |
 | 08 | Rust | OmniBridge Aptos | Cross-chain bridge | 1 High, 2 Medium, 2 Low | Jul 2026 | AuditOne |
 | 09 | Rust | DeLorean Labs Staking | Staking | 4 High, 6 Medium, 7 Low | Jun 2026 | Hashlock |
 | 10 | Rust | Zynk Labs | Solana | 1 Medium, 6 Low | Jun 2026 | QuillAudits |
 | 11 | Solidity | IBC Group | DeFi | 1 High, 5 Low | Jun 2026 | Hashlock |
 | 12 | Rust | via network | Cross-chain messaging | 3 High, 3 Medium, 21 Low | Apr 2026 | Hashlock |
-| 13 | Rust | Arcane Protocol | Privacy, ZK mixer | 1 Medium, 13 Low | Apr 2026 | Hashlock |
-| 14 | Rust | Loadout Programs | Launchpad, bonding curve, Meteora DLMM | 4 High, 5 Medium, 19 Low | Mar 2026 | Hashlock |
-| 15 | Solidity | Pool Orbit | Lottery, VRF | 4 High, 1 Medium, 1 Low | Mar 2026 | Hashlock |
-| 16 | Rust | Polymesh | RWA, regulated securities | 4 High, 6 Medium, 12 Low | Feb 2026 | Hashlock |
-| 17 | Solidity | Optimism, Celo | L2, custom gas token | 1 Medium | Feb 2026 | Hashlock |
+| 13 | Rust | [Arcane Protocol](https://hashlock.com/wp-content/uploads/2026/06/Arcane-Smart-Contract-Audit-Report-Final-Report-v3.pdf) | Privacy, ZK mixer | 1 Medium, 13 Low | Apr 2026 | Hashlock |
+| 14 | Rust | [Loadout Programs](https://hashlock.com/wp-content/uploads/2026/05/Loadout-Smart-Contract-Audit-Report-Final-Report-v2.pdf) | Launchpad, bonding curve, Meteora DLMM | 4 High, 5 Medium, 19 Low | Mar 2026 | Hashlock |
+| 15 | Solidity | [Pool Orbit](https://hashlock.com/wp-content/uploads/2026/04/PoolOrbit-Smart-Contract-Audit-Report-Final-Report-v4.pdf) | Lottery, VRF | 4 High, 1 Medium, 1 Low | Mar 2026 | Hashlock |
+| 16 | Rust | [Polymesh](https://hashlock.com/wp-content/uploads/2026/07/Polymesh-Audit-Report-Final-Report-v5.pdf) | RWA, regulated securities | 4 High, 6 Medium, 12 Low | Feb 2026 | Hashlock |
+| 17 | Solidity | [Optimism, Celo](https://hashlock.com/wp-content/uploads/2026/01/Celo-2nd-Smart-Contract-Audit-Report-Final-Report-v2.pdf) | L2, custom gas token | 1 Medium | Feb 2026 | Hashlock |
 | 18 | Rust | Mint Matrix | Solana | 4 High, 1 Low | Feb 2026 | Hashlock |
 | 19 | Solidity | Umbrae Protocol | DLMM | 1 High, 5 Medium, 2 Low | Jan 2026 | Hashlock |
 | 20 | Solidity | Vana | DeFi | 4 Low | Dec 2025 | Hashlock |
 | 21 | Rust | Tilted Social Gaming | DeFi, gaming | 12 High, 3 Medium, 4 Low | Dec 2025 | DeCrypt0 |
-| 22 | Rust | Beamable Network | DePIN | 2 High, 2 Medium, 4 Low | Nov 2025 | Hashlock |
+| 22 | Rust | [Beamable Network](https://hashlock.com/wp-content/uploads/2025/12/Beamable-Network-Smart-Contract-Audit-Report-Final-Report-v4.pdf) | DePIN | 2 High, 2 Medium, 4 Low | Nov 2025 | Hashlock |
 | 23 | Rust | zkSync Era (round 2) | ZK EVM L2 | 1 Medium, 2 Low | Nov 2025 | Taran Space |
 | 24 | C++, Rust | Undisclosed | Blockchain VM | 1 High, 2 Low | Aug 2025 | Taran Space |
 | 25 | Rust | Pyro.fun | DeFi, post-audit review | 1 High | Jul 2025 | QuillAudits |
@@ -52,6 +52,11 @@ Engineering and auditing secure, high-performance Rust systems for DeFi, trading
 
 | # | Protocol | Issues Triaged | Date | Firm |
 |---|----------|----------------|------|------|
+| 01 | Bluefin | 100 | Jun 2026 | Pashov Audit Group |
+| 02 | Linea | 93 | Jun 2026 | Pashov Audit Group |
+| 03 | Yelay | 74 | Jun 2026 | Pashov Audit Group |
+
+---|----------|----------------|------|------|
 | 01 | Bluefin | 100 | Jun 2026 | Pashov Audit Group |
 | 02 | Linea | 93 | Jun 2026 | Pashov Audit Group |
 | 03 | Yelay | 74 | Jun 2026 | Pashov Audit Group |
