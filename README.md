@@ -56,21 +56,6 @@ Engineering and auditing secure, high-performance Rust systems for DeFi, trading
 | 02 | Linea | 93 | Jun 2026 | Pashov Audit Group |
 | 03 | Yelay | 74 | Jun 2026 | Pashov Audit Group |
 
----|----------|----------------|------|------|
-| 01 | Bluefin | 100 | Jun 2026 | Pashov Audit Group |
-| 02 | Linea | 93 | Jun 2026 | Pashov Audit Group |
-| 03 | Yelay | 74 | Jun 2026 | Pashov Audit Group |
-
----|----------|----------------|------|------|
-| 01 | Bluefin | 100 | Jun 2026 | Pashov Audit Group |
-| 02 | Linea | 93 | Jun 2026 | Pashov Audit Group |
-| 03 | Yelay | 74 | Jun 2026 | Pashov Audit Group |
-
----|----------|----------------|------|------|
-| 01 | Bluefin | 100 | Jun 2026 | Pashov Audit Group |
-| 02 | Linea | 93 | Jun 2026 | Pashov Audit Group |
-| 03 | Yelay | 74 | Jun 2026 | Pashov Audit Group |
-
 ---
 
 ### **Open Source**  
